@@ -1,4 +1,4 @@
-# mongomart
+# ecommerce-js-application
 MongoDB NodeJS application
 1-Install the dependencies
 2-Import the "item" collection: mongoimport --drop -d mongomart -c item data/items.json
